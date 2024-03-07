@@ -18,7 +18,7 @@ In no event shall we be liable for any damages (including, without limitation, d
 
 # Modifications
 
-We may revise these terms of service or our [privacy policy]() for the Service at any time without notice. By using the Service you are agreeing to be bound by the then current version of these terms of service and privacy policy.
+We may revise these terms of service or our [privacy policy](https://github.com/eeropomell/AI-Art-Games-TOS/blob/main/privacy.md) for the Service at any time without notice. By using the Service you are agreeing to be bound by the then current version of these terms of service and privacy policy.
 
 # Contact Us
 
