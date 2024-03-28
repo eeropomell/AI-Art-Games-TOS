@@ -11,7 +11,7 @@ The following outlines the data collection and its utilization:
 
 - The value of the `story` parameter provided by the user when generating a comic via the /comic-strip command is stored. This data aids in identifying users who are misusing the AI Art Games, such as by generating NSFW comics.
 
-- Every message is checked to see if its value is equal to any of the following strings: "\/ai-or-not", "\/guess-the-prompt", "\/comic-strip". If yes, the bot replies to the sender of the message with assistance in how to use the actual slashcommand. This information helps make AI Art Games accessible even for people that aren't experienced with Discord and/or Discord bots. No message content is ever stored.
+- Messages with images attached to them are stored for 1 day. This data is used to provide functionality that allows users to get descriptions of images posted in text channels, or modify them.
 
 ## Access to Data
 Access to Data is only permitted to AI Art Games's developers, and only in the scope required for the development, testing, and implementation of features for AI Art Games. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request via eero.the.engineer@gmail.com.
